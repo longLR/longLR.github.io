@@ -1,7 +1,5 @@
 # longLR.github.io
-
 >一个菜鸟的GitHub学习之路
-
 >java秋招复习计划
 >1.复习前端基础 html css javascript JSON Ajax
 >2.复习java基础
